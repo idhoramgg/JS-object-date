@@ -1,0 +1,26 @@
+body {
+  background: url(/images/auah.jpg);
+  background-size: cover;
+  background-position: center;
+}
+h1 {
+  color: black;
+  font-size: 64px;
+  float: left;
+  padding: 30px;
+  margin: 0 auto;
+  margin-left: 20px;
+  margin-top: 25px;
+  text-align: center;
+  border: 5px solid black;
+}
+.jam-digital {
+  width: 500px;
+  min-height: 200px;
+  border-radius: 20%;
+  background-color: transparent;
+  border: 5px solid black;
+  margin: 0 auto;
+  margin-top: 20%;
+ 
+}
